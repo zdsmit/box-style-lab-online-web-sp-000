@@ -21,6 +21,9 @@ h4 {
   padding: 5px;
   margin: 20px 0 0 0;
 }
+img {
+  box-sizing: border-box;
+}
 
 .amiable {
   border: 1px solid #22aa44;
